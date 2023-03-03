@@ -5,9 +5,7 @@ This project was undertaken to understand any correlations between the damages o
 
 The tornado data was gathered from the NOAA website, the damage data was from a previous site visit from the fulcrum app and the county and census shape files were taken from fata.gov.in.
 
-The damage data was obtained by a webscapper, and it also available on  
-
-since i did not have access to it directly. The webscaper was defined in my draft submission but has been removed from this notebook since it was heavy and the notebook kept hanging. I saved the csv from the webscaper and have implemented that directly in this notebook.
+The damage data was obtained by a webscapper, since i did not have access to it directly. I saved the csv from the webscaper and have implemented that directly in this notebook.
 
 
 **Libraries used**
