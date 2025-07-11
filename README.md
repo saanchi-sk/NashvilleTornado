@@ -1,5 +1,10 @@
-# NashvilleTornado
-This project was undertaken to understand any correlations between the damages observed during the 2019 Nashville tornado and the built environment.
+# Nashville Tornado Analysis
+This notebook explores and analyzes tornado-related data in the Nashville area using Python. It includes data cleaning, exploratory visualizations, and insights on patterns of tornado occurrences and damage.
+
+## How to Run
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run `Nash_Tornado.ipynb`
 
 **Data**
 
