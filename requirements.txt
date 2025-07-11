@@ -1,1 +1,12 @@
-`
+geopandas
+osmnx
+contextily
+matplotlib
+numpy
+pandas
+hdbscan
+xarray
+requests
+scikit-learn`
+cenpy
+census
